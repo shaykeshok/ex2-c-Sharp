@@ -1,0 +1,135 @@
+Let's play Hangman!
+Enter a word:
+shayke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have 5 lives!
+current progress: ------
+
+
+
+Guess a letter: s
+Found 1 letter S!
+
+You have 5 lives!
+current progress: S-----
+
+
+
+Guess a letter: h
+Found 1 letter H!
+
+You have 5 lives!
+current progress: SH----
+
+
+
+Guess a letter: a
+Found 1 letter A!
+
+You have 5 lives!
+current progress: SHA---
+
+
+
+Guess a letter: t
+No letter T!
+--------
+
+You have 4 lives!
+current progress: SHA---
+
+
+
+Guess a letter: k
+Found 1 letter K!
+--------
+
+You have 4 lives!
+current progress: SHA-K-
+
+
+
+Guess a letter: e
+Found 1 letter E!
+--------
+
+You have 4 lives!
+current progress: SHA-KE
+
+
+
+Guess a letter: y
+Found 1 letter Y!
+--------
+
+
+
+The word was: SHAYKE
+
+
+YOU WIN!!!!!!!!!!!

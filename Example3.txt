@@ -1,0 +1,140 @@
+Let's play Hangman!
+Enter a word:
+CPP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have 5 lives!
+current progress: ---
+
+
+
+Guess a letter: f
+No letter F!
+--------
+
+You have 4 lives!
+current progress: ---
+
+
+
+Guess a letter: r
+No letter R!
+--------
+       |
+
+You have 3 lives!
+current progress: ---
+
+
+
+Guess a letter: p
+Found 2 letter P!
+--------
+       |
+
+You have 3 lives!
+current progress: -PP
+
+
+
+Guess a letter: e
+No letter E!
+--------
+       |
+       O
+
+You have 2 lives!
+current progress: -PP
+
+
+
+Guess a letter: q
+No letter Q!
+--------
+       |
+       O
+      /|\
+
+You only have 1 life left!!
+current progress: -PP
+
+
+
+Guess a letter: a
+No letter A!
+--------
+       |
+       O
+      /|\
+      / \
+
+
+
+The word was: CPP
+
+
+YOU LOSE!!!!!!!!!
